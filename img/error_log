@@ -1,0 +1,7 @@
+[05-Jun-2021 05:11:48 UTC] PHP Warning:  file_get_contents(https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s150x150/39107275_2068168806528971_5569852699148550144_n.jpg?tp=1): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mua3qfuoxjgs/public_html/instahotstar/img/index.php on line 4
+[05-Jun-2021 05:24:47 UTC] PHP Warning:  file_get_contents(https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s150x150/39107275_2068168806528971_5569852699148550144_n.jpg?tp=1): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/mua3qfuoxjgs/public_html/instahotstar/img/index.php on line 3
+[05-Jun-2021 05:27:03 UTC] PHP Notice:  Undefined index: img in /home/mua3qfuoxjgs/public_html/instahotstar/img/index.php on line 2
+[05-Jun-2021 05:27:59 UTC] PHP Notice:  Array to string conversion in /home/mua3qfuoxjgs/public_html/instahotstar/img/index.php on line 4
+[05-Jun-2021 05:28:58 UTC] PHP Notice:  Array to string conversion in /home/mua3qfuoxjgs/public_html/instahotstar/img/index.php on line 4

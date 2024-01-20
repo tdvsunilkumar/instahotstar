@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /checkout/selectproduct
+
+Sitemap: https://instahotstar.com/sitemap.xml

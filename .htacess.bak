@@ -1,0 +1,72 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} instahotstar\.com [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://instahotstar.com/$1 [R,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css A3600
+    ExpiresByType text/x-component A3600
+    ExpiresByType application/x-javascript A3600
+    ExpiresByType application/javascript A3600
+    ExpiresByType text/javascript A3600
+    ExpiresByType text/x-js A3600
+    ExpiresByType text/html A3600
+    ExpiresByType text/richtext A3600
+    ExpiresByType image/svg+xml A3600
+    ExpiresByType text/plain A3600
+    ExpiresByType text/xsd A3600
+    ExpiresByType text/xsl A3600
+    ExpiresByType text/xml A3600
+    ExpiresByType video/asf A3600
+    ExpiresByType video/avi A3600
+    ExpiresByType image/bmp A3600
+    ExpiresByType application/java A3600
+    ExpiresByType video/divx A3600
+    ExpiresByType application/msword A3600
+    ExpiresByType application/vnd.ms-fontobject A3600
+    ExpiresByType application/x-msdownload A3600
+    ExpiresByType image/gif A3600
+    ExpiresByType application/x-gzip A3600
+    ExpiresByType image/x-icon A3600
+    ExpiresByType image/jpeg A3600
+    ExpiresByType application/json A3600
+    ExpiresByType application/vnd.ms-access A3600
+    ExpiresByType audio/midi A3600
+    ExpiresByType video/quicktime A3600
+    ExpiresByType audio/mpeg A3600
+    ExpiresByType video/mp4 A3600
+    ExpiresByType video/mpeg A3600
+    ExpiresByType application/vnd.ms-project A3600
+    ExpiresByType application/x-font-otf A3600
+    ExpiresByType application/vnd.ms-opentype A3600
+    ExpiresByType application/vnd.oasis.opendocument.database A3600
+    ExpiresByType application/vnd.oasis.opendocument.chart A3600
+    ExpiresByType application/vnd.oasis.opendocument.formula A3600
+    ExpiresByType application/vnd.oasis.opendocument.graphics A3600
+    ExpiresByType application/vnd.oasis.opendocument.presentation A3600
+    ExpiresByType application/vnd.oasis.opendocument.spreadsheet A3600
+    ExpiresByType application/vnd.oasis.opendocument.text A3600
+    ExpiresByType audio/ogg A3600
+    ExpiresByType application/pdf A3600
+    ExpiresByType image/png A3600
+    ExpiresByType application/vnd.ms-powerpoint A3600
+    ExpiresByType audio/x-realaudio A3600
+    ExpiresByType image/svg+xml A3600
+    ExpiresByType application/x-shockwave-flash A3600
+    ExpiresByType application/x-tar A3600
+    ExpiresByType image/tiff A3600
+    ExpiresByType application/x-font-ttf A3600
+    ExpiresByType application/vnd.ms-opentype A3600
+    ExpiresByType audio/wav A3600
+    ExpiresByType audio/wma A3600
+    ExpiresByType application/vnd.ms-write A3600
+    ExpiresByType application/font-woff A3600
+    ExpiresByType application/font-woff2 A3600
+    ExpiresByType application/vnd.ms-excel A3600
+    ExpiresByType application/zip A3600
+</IfModule>

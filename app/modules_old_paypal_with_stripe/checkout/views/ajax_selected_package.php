@@ -1,0 +1,4 @@
+<div class="package" data-product-id="222" data-min="<?php echo (isset($package->min))?$package->min:''; ?>" data-count="<?php echo (isset($package->quantity))?$package->quantity:''; ?>" data-package="<?php echo (isset($package->ids))?$package->ids:''; ?>" data-offeritems="<?php echo (isset($previous_package->quantity))?$previous_package->quantity:''; ?>">
+            <p class="bold" style="font-weight: 1000;font-size: 25px;"> <span><?php echo (isset($package->quantity))?$package->quantity:''; ?> <?php echo (isset($package->order_for))?$orderFor[$package->order_for]['for']:''; ?></span> | <span><?php echo (isset($package->price))?number_format((float)$package->price, 2, '.', ''):''; ?> $</span></p>
+            <a href="javascript:void(0);" class="btn-pink select-new-package">Change Package</a> <script></script> 
+         </div>

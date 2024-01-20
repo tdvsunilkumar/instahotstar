@@ -1,0 +1,62 @@
+[15-Nov-2019 06:17:52 Asia/Colombo] PHP Fatal error:  Call to a member function row() on boolean in /home/likesnetwork/public_html/app/core/MY_Model.php on line 64
+[15-Nov-2019 06:17:55 Asia/Colombo] PHP Fatal error:  Call to a member function row() on boolean in /home/likesnetwork/public_html/app/core/MY_Model.php on line 64
+[20-Nov-2019 06:17:02 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[20-Nov-2019 06:17:02 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[20-Nov-2019 06:17:03 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[20-Nov-2019 06:17:03 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[03-Dec-2019 06:19:02 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[03-Dec-2019 06:19:02 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[03-Dec-2019 06:19:03 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[03-Dec-2019 06:19:03 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[05-Dec-2019 06:17:02 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[05-Dec-2019 06:17:02 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[05-Dec-2019 06:17:04 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[05-Dec-2019 06:17:04 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[10-Dec-2019 06:23:02 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[10-Dec-2019 06:23:02 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[10-Dec-2019 06:23:04 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[10-Dec-2019 06:23:04 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: general_sessions) in /home/likesnetwork/public_html/app/core/system/libraries/Session/Session.php on line 143
+[04-Jan-2020 14:33:32 Asia/Colombo] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/likesnetwork/public_html/app/libraries/cardinity/symfony/validator/Validation.php on line 29
+[04-Jan-2020 14:34:12 Asia/Colombo] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/likesnetwork/public_html/app/libraries/cardinity/symfony/validator/Validation.php on line 29
+[04-Jan-2020 14:39:42 Asia/Colombo] PHP Fatal error:  Cannot use object of type MX_Config as array in /home/likesnetwork/public_html/app/modules/cardinity/controllers/cardinity.php on line 41
+[04-Jan-2020 14:40:15 Asia/Colombo] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/likesnetwork/public_html/app/libraries/cardinity/symfony/validator/Validation.php on line 29
+[04-Jan-2020 14:41:28 Asia/Colombo] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/likesnetwork/public_html/app/libraries/cardinity/symfony/validator/Validation.php on line 29
+[04-Jan-2020 14:42:54 Asia/Colombo] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/likesnetwork/public_html/app/libraries/cardinity/symfony/validator/Validation.php on line 29
+[04-Jan-2020 14:51:39 Asia/Colombo] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/likesnetwork/public_html/app/libraries/cardinity/symfony/validator/Validation.php on line 29
+[04-Jan-2020 14:55:48 Asia/Colombo] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/likesnetwork/public_html/app/libraries/cardinity/symfony/validator/Validation.php on line 29
+[03-Feb-2020 21:53:29 Asia/Colombo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/instafollowersx/public_html/app/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php on line 6269
+[03-Feb-2020 21:53:29 Asia/Colombo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/instafollowersx/public_html/app/core/system/core/Common.php on line 163
+[03-Feb-2020 21:55:00 Asia/Colombo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/instafollowersx/public_html/app/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php on line 6269
+[03-Feb-2020 21:55:00 Asia/Colombo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/instafollowersx/public_html/app/core/system/core/Common.php on line 163
+[03-Feb-2020 22:01:50 Asia/Colombo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/instafollowersx/public_html/app/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php on line 6269
+[03-Feb-2020 22:01:50 Asia/Colombo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 147456 bytes) in /home/instafollowersx/public_html/app/core/system/core/Common.php on line 163
+[02-Dec-2020 17:08:17 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[11-Dec-2020 11:05:06 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[11-Dec-2020 11:05:06 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[11-Dec-2020 11:05:07 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[11-Dec-2020 11:05:19 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[11-Dec-2020 11:06:07 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[11-Dec-2020 11:06:50 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[11-Dec-2020 11:07:02 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[11-Dec-2020 11:08:14 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[11-Dec-2020 11:08:44 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[11-Dec-2020 11:08:57 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 148
+[27-Feb-2021 12:31:06 Asia/Colombo] PHP Fatal error:  Cannot use [] for reading in /home/mua3qfuoxjgs/public_html/instahotstar/app/modules/checkout/controllers/coinbase.php on line 252
+[27-Feb-2021 12:31:08 Asia/Colombo] PHP Fatal error:  Cannot use [] for reading in /home/mua3qfuoxjgs/public_html/instahotstar/app/modules/checkout/controllers/coinbase.php on line 252
+[09-Mar-2021 18:20:44 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:20:52 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:21:58 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:25:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:25:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:25:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:25:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:30:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:30:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:30:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:30:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:35:08 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:35:09 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:40:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:40:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:40:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
+[09-Mar-2021 18:40:01 Asia/Colombo] PHP Warning:  Constants may only evaluate to scalar values in /home/mua3qfuoxjgs/public_html/instahotstar/app/config/constants.php on line 149
